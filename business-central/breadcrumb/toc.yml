@@ -1,0 +1,11 @@
+- name: Dynamics 365
+  tocHref: /dynamics365/
+  topicHref: /dynamics365/index
+  items:
+    - name: Business Central
+      tocHref: /dynamics365/business-central/
+      topicHref: /dynamics365/business-central/index
+      items:
+        - name: Business Central Development and Administration
+          tocHref: /dynamics365/business-central/dev-itpro
+          topicHref: /dynamics365/business-central/dev-itpro/index
