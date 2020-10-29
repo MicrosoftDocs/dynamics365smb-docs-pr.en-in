@@ -1,0 +1,1 @@
+<span data-ttu-id="245e3-101">Get [training!](/learn/browse/?products=dynamics-business-central)</span><span class="sxs-lookup"><span data-stu-id="245e3-101">Get [training!](/learn/browse/?products=dynamics-business-central)</span></span>
