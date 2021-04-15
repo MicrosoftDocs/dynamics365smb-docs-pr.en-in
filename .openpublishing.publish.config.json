@@ -4,10 +4,10 @@
       "docset_name": "d365businesscentral",
       "build_source_folder": "business-central",
       "build_output_subfolder": "d365businesscentral",
-      "locale": "en-in",
+      "locale": "de-de",
       "monikers": [],
       "moniker_ranges": [],
-      "open_to_public_contributors": false,
+      "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -27,13 +27,15 @@
   "branches_to_filter": [
     "live-sxs"
   ],
+  "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/dynamics365smb-docs",
+  "git_repository_branch_open_to_public_contributors": "main",
   "continue_with_document_error": true,
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.en-in",
+      "url": "https://github.com/Microsoft/templates.docs.msft.de-de",
       "branch": "master",
       "branch_mapping": {}
     },
@@ -66,8 +68,8 @@
     }
   },
   "need_generate_intellisense": false,
-  "need_generate_pdf": false,
-  "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/dynamics365smb-docs",
-  "git_repository_branch_open_to_public_contributors": "main",
-  "contribution_branch_mappings": {}
+  "contribution_branch_mappings": {},
+  "docs_build_engine": {
+    "name": "docfx_v3"
+  }
 }
